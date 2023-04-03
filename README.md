@@ -1,6 +1,6 @@
 # blitz-new-issue
 
-This repository provides reproduction steps for `blitz new`.
+This repository provides reproduction steps for https://github.com/blitz-js/blitz/issues/4112.
 
 ## Steps
 
